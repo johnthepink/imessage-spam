@@ -3,6 +3,8 @@ imessage-spam
 
 Script for spamming your friends with iMessages. Don't tell them it was me.
 
+_Please do not do anything malicious with it. I accept no responsiblity._
+
 ## Usage
 
 1. Clone the repo and open `iMessage.scpt` in Script Editor.
